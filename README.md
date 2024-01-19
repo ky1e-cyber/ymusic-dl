@@ -2,10 +2,8 @@
 
 ## Requirements
 
-```
-[yt-dlp](https://github.com/yt-dlp/yt-dlp/tree/master)
-[ffmpeg](https://ffmpeg.org/)
-```
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/tree/master)
+- [ffmpeg](https://ffmpeg.org/)
 
 ## Quick start
 ```console
